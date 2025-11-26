@@ -127,20 +127,20 @@ importers:
         specifier: ^2.0.42
         version: 2.0.52(zod@3.25.76)
       '@copilotkit/react-core':
-        specifier: 0.0.0-feat-cpk-1-5-20251126150155
-        version: 0.0.0-feat-cpk-1-5-20251126150155(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
+        specifier: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
+        version: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
       '@copilotkit/react-ui':
-        specifier: 0.0.0-feat-cpk-1-5-20251126150155
-        version: 0.0.0-feat-cpk-1-5-20251126150155(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
+        specifier: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
+        version: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
       '@copilotkit/runtime':
-        specifier: 0.0.0-feat-cpk-1-5-20251126150155
-        version: 0.0.0-feat-cpk-1-5-20251126150155(43a54c62826e391639c20a8a0387b983)
+        specifier: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
+        version: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(43a54c62826e391639c20a8a0387b983)
       '@copilotkit/runtime-client-gql':
-        specifier: 0.0.0-feat-cpk-1-5-20251126150155
-        version: 0.0.0-feat-cpk-1-5-20251126150155(graphql@16.11.0)(react@19.2.0)
+        specifier: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
+        version: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(graphql@16.11.0)(react@19.2.0)
       '@copilotkit/shared':
-        specifier: 0.0.0-feat-cpk-1-5-20251126150155
-        version: 0.0.0-feat-cpk-1-5-20251126150155
+        specifier: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
+        version: 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
       '@copilotkitnext/agent':
         specifier: 0.0.22
         version: 0.0.22
@@ -1607,8 +1607,8 @@ packages:
   '@clack/prompts@0.11.0':
     resolution: {integrity: sha512-pMN5FcrEw9hUkZA4f+zLlzivQSeQf5dRGJjSUbvVYDLvpKCdQx5OaknvKzgbtXOizhP+SJJJjqEbOe55uKKfAw==}
 
-  '@copilotkit/react-core@0.0.0-feat-cpk-1-5-20251126150155':
-    resolution: {integrity: sha512-MbDqIG87uxpB/slB1amvS9v8mQwlIehzXHxTPTuZJ1C4pwPQa5YiZnkrU7asyrPV0aMIoHlRF8xQe+XEBDYVLQ==}
+  '@copilotkit/react-core@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
+    resolution: {integrity: sha512-dL/YecyJg9YCCyo3glMEw6xTEM2lVOd4l3fKyW3Hpix8XmSmnkps/5/wxFsbBFYxQAYDayBRs4YC5e5cpTlxiA==}
     peerDependencies:
       '@copilotkitnext/core': 0.0.22
       '@copilotkitnext/react': 0.0.22
@@ -1616,19 +1616,19 @@ packages:
       react-dom: ^18 || ^19 || ^19.0.0-rc
       zod: '>=3.0.0'
 
-  '@copilotkit/react-ui@0.0.0-feat-cpk-1-5-20251126150155':
-    resolution: {integrity: sha512-g5YVjnk9edHxl2WnNNBNT4hWnhrwGQtK3H9KqZ+Pz8rFz6u6xGf2UCSGPF/CgJpOgYBMfAaxCv8ep0XtWi5J5w==}
+  '@copilotkit/react-ui@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
+    resolution: {integrity: sha512-fXJ96XTG5X2wr0Zfuf5kh+EfPklPlxnb7WOU1mff3Y5B4QtyE9lq31HDcjuMPrbBwGfW94GXYycwxrOyCpKrtQ==}
     peerDependencies:
       '@copilotkitnext/core': 0.0.22
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime-client-gql@0.0.0-feat-cpk-1-5-20251126150155':
-    resolution: {integrity: sha512-KLZ1oBzi6cPvf9/zysWAHNHIwL+O5q8Np97TfvMHy9sjlToTGlOz13TnmzrcGwevmmFTJl8yvxN+4996SL4ACQ==}
+  '@copilotkit/runtime-client-gql@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
+    resolution: {integrity: sha512-ove3r9i4//ZqtaxDQV5E5af3ZP8rwST696BC3F5D5sEVUvN8knk4TuX+9j9a3HM4MPVZb/DzQ10IU3DUlEyRNQ==}
     peerDependencies:
       react: ^18 || ^19 || ^19.0.0-rc
 
-  '@copilotkit/runtime@0.0.0-feat-cpk-1-5-20251126150155':
-    resolution: {integrity: sha512-G003X4Wpy5OfSw0v5sqrQBiOEe7xvvc8NFxbAYyhsDXcMDRgHV9Q2k4HlkMeBZDLj1bad82l5DT0sctt3xu4GA==}
+  '@copilotkit/runtime@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
+    resolution: {integrity: sha512-WjXzMX+KqMegiu/5RfuObw60kjTmTDRgZpOr74AK5A+3/sN+5U8zJcRlq/duq+kbhlGE5DN09EHpIfkzxm3M9w==}
     peerDependencies:
       '@ag-ui/client': '>=0.0.39'
       '@ag-ui/core': '>=0.0.39'
@@ -1645,8 +1645,8 @@ packages:
       '@ag-ui/langgraph': '>=0.0.18'
       '@ag-ui/proto': '>=0.0.39'
 
-  '@copilotkit/shared@0.0.0-feat-cpk-1-5-20251126150155':
-    resolution: {integrity: sha512-lO3V1J/0R9KYcpcDmhd6dYbZsjDIEbk61KnPK5sZBHK/X+SRY7ht+7kyxVZ5xku8ruVyyPzIENa9w8uTE+9plg==}
+  '@copilotkit/shared@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
+    resolution: {integrity: sha512-B6LYkBOzafuzGw4v4mt323Cc+L+FFJuoTpItqxcrIIn++FaHz92Mo2BLgOVoQFlsROSi+yzIvLgSHm5m77QSkg==}
 
   '@copilotkit/shared@1.10.6':
     resolution: {integrity: sha512-56Rltf4fDBqCpl1ZXARypt5NdE4LTg3tGPPLurZpgPmm31Lv5EAHpfjC7I55vt9A0mXWlTCHtCrpiaAlTyzGJw==}
@@ -11552,10 +11552,10 @@ snapshots:
       picocolors: 1.1.1
       sisteransi: 1.0.5
 
-  '@copilotkit/react-core@0.0.0-feat-cpk-1-5-20251126150155(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)':
+  '@copilotkit/react-core@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)':
     dependencies:
-      '@copilotkit/runtime-client-gql': 0.0.0-feat-cpk-1-5-20251126150155(graphql@16.11.0)(react@19.2.0)
-      '@copilotkit/shared': 0.0.0-feat-cpk-1-5-20251126150155
+      '@copilotkit/runtime-client-gql': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(graphql@16.11.0)(react@19.2.0)
+      '@copilotkit/shared': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
       '@copilotkitnext/core': 0.0.22
       '@copilotkitnext/react': 0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       '@scarf/scarf': 1.4.0
@@ -11570,11 +11570,11 @@ snapshots:
       - graphql
       - supports-color
 
-  '@copilotkit/react-ui@0.0.0-feat-cpk-1-5-20251126150155(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)':
+  '@copilotkit/react-ui@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)':
     dependencies:
-      '@copilotkit/react-core': 0.0.0-feat-cpk-1-5-20251126150155(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
-      '@copilotkit/runtime-client-gql': 0.0.0-feat-cpk-1-5-20251126150155(graphql@16.11.0)(react@19.2.0)
-      '@copilotkit/shared': 0.0.0-feat-cpk-1-5-20251126150155
+      '@copilotkit/react-core': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(@copilotkitnext/core@0.0.22)(@copilotkitnext/react@0.0.22(@types/react-dom@19.2.2(@types/react@19.2.2))(@types/react@19.2.2)(react-dom@19.2.0(react@19.2.0))(react@19.2.0))(@types/react@19.2.2)(graphql@16.11.0)(react-dom@19.2.0(react@19.2.0))(react@19.2.0)(zod@3.25.76)
+      '@copilotkit/runtime-client-gql': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(graphql@16.11.0)(react@19.2.0)
+      '@copilotkit/shared': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
       '@copilotkitnext/core': 0.0.22
       '@headlessui/react': 2.2.9(react-dom@19.2.0(react@19.2.0))(react@19.2.0)
       react: 19.2.0
@@ -11592,9 +11592,9 @@ snapshots:
       - supports-color
       - zod
 
-  '@copilotkit/runtime-client-gql@0.0.0-feat-cpk-1-5-20251126150155(graphql@16.11.0)(react@19.2.0)':
+  '@copilotkit/runtime-client-gql@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(graphql@16.11.0)(react@19.2.0)':
     dependencies:
-      '@copilotkit/shared': 0.0.0-feat-cpk-1-5-20251126150155
+      '@copilotkit/shared': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
       '@urql/core': 5.2.0(graphql@16.11.0)
       react: 19.2.0
       untruncate-json: 0.0.1
@@ -11603,7 +11603,7 @@ snapshots:
       - encoding
       - graphql
 
-  '@copilotkit/runtime@0.0.0-feat-cpk-1-5-20251126150155(43a54c62826e391639c20a8a0387b983)':
+  '@copilotkit/runtime@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746(43a54c62826e391639c20a8a0387b983)':
     dependencies:
       '@ag-ui/client': link:sdks/typescript/packages/client
       '@ag-ui/core': link:sdks/typescript/packages/core
@@ -11611,7 +11611,7 @@ snapshots:
       '@ag-ui/langgraph': link:integrations/langgraph/typescript
       '@ag-ui/proto': link:sdks/typescript/packages/proto
       '@anthropic-ai/sdk': 0.57.0
-      '@copilotkit/shared': 0.0.0-feat-cpk-1-5-20251126150155
+      '@copilotkit/shared': 0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746
       '@copilotkitnext/agent': 0.0.22
       '@copilotkitnext/runtime': 0.0.22(openai@4.104.0(ws@8.18.3)(zod@3.25.76))
       '@graphql-yoga/plugin-defer-stream': 3.16.0(graphql-yoga@5.16.0(graphql@16.11.0))(graphql@16.11.0)
@@ -11970,7 +11970,7 @@ snapshots:
       - ws
       - youtubei.js
 
-  '@copilotkit/shared@0.0.0-feat-cpk-1-5-20251126150155':
+  '@copilotkit/shared@0.0.0-v1-5-resolve-direct-props-agent-name-20251126161746':
     dependencies:
       '@ag-ui/core': 0.0.37
       '@segment/analytics-node': 2.3.0
